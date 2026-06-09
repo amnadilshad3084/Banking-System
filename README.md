@@ -57,5 +57,3 @@ banking-system/
 - Multi-user account management
 
 - Freeze, close, or flag accounts as fraudulent
-
-## 📁 Project Structure
