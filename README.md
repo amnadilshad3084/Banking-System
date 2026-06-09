@@ -27,7 +27,9 @@ User Clients, Company Clients, and Banking Employees.
 - Approve or reject company loan requests
 - View all client accounts and transaction histories
 
-## banking-system/
+## Project Structure
+```text
+banking-system/
 ├── classes(1).h              # Class declarations (OOP structure)
 ├── FileManager(1).h          # File manager class declaration
 ├── FileManager(1).cpp        # File read/write operations
@@ -40,7 +42,7 @@ User Clients, Company Clients, and Banking Employees.
 ├── admin.txt                 # Banking employee credentials
 ├── frozen_accounts.txt       # Frozen account records
 └── fraud_cards.txt           # Flagged fraudulent cards
-
+```
 ## 🚀 How to Run
 1. Open the project folder in Visual Studio 2022
 2. Build the solution (`Ctrl + Shift + B`)
